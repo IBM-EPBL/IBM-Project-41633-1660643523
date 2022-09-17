@@ -1,11 +1,11 @@
-﻿/* Write CSS Here */
+/* Write CSS Here */
 * {
  margin: 0;
  padding: 0;
  box-sizing: border-box;
 }
 body {
- background-color: rgb(253, 254, 255);
+ background-color: red(253, 254, 255);
  display: flex;
  justify-content: center;
  align-items: center;
